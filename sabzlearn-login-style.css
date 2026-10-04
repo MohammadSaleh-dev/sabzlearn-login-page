@@ -10,7 +10,8 @@
     font-weight:bold;
     text-shadow: 3px 4px 1px rgb(72, 195, 72);
     text-align: center;
-    text-decoration: underline;
+    border-bottom: 7px solid green;
+    border-radius: 12px;
 }
 
 table {
